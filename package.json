@@ -1,0 +1,14 @@
+{
+  "name": "nest-react-monorepo",
+  "version": "1.0.0",
+  "description": "Its Repo to demonstrate power of monorepo for end to end web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.10.13"
+  }
+}
